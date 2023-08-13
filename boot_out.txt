@@ -1,0 +1,4 @@
+Adafruit CircuitPython 8.2.1 on 2023-07-25; Adafruit Feather nRF52840 Express with nRF52840
+Board ID:feather_nrf52840_express
+UID:E742F3EF7D23D575
+boot.py output:
